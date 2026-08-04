@@ -1,18 +1,20 @@
 # Entorno virtual
 .venv/
 
-# Caché de Python
+# Python
 __pycache__/
 *.pyc
 
-# Archivos de VS Code
+# VS Code
 .vscode/
 
-# Archivos de salida
+# Resultados
 *.csv
 *.png
 
 # Archivos temporales
 *.log
 
-allChan_1kHz_clean.mat
+# Datos EEG grandes
+*.mat
+*.npy
