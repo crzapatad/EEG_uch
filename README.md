@@ -1,6 +1,6 @@
 # Análisis y Procesamiento de Señales Neurofisiológicas
 
-Este proyecto contiene un pipeline en Python para la **carga, procesamiento y análisis de señales neurofisiológicas multicanal**, principalmente EEG/LFP.
+E Proyecto de procesamiento y análisis de señales neurofisiológicas mediante Python, orientado al análisis de registros multicanal, caracterización estadística, análisis espectral, análisis tiempo-frecuencia, reducción de dimensionalidad y estudio de relaciones entre señales. Este proyecto contiene un pipeline en Python para la **carga, procesamiento y análisis de señales neurofisiológicas multicanal**, principalmente EEG/LFP.
 
 ## Objetivo
 
