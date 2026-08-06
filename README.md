@@ -9,7 +9,7 @@ El programa permite procesar registros obtenidos desde archivos `.mat` y datos p
 ## Flujo de procesamiento
 
 ```text
-Datos neurofisiológicos
+Datos neurofisiológicos (inicio)
         ↓
 Carga de señales
         ↓
@@ -31,7 +31,7 @@ Señal residual
 │ dominante     │ temporal     │              │
 └───────────────┴──────────────┴──────────────┘
         ↓
-Resultados CSV / NPY / MAT / PNG
+Resultados CSV / NPY / MAT / PNG (final)
 ```
 
 ## Procesamiento realizado
